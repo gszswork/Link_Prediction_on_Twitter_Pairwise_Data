@@ -1,2 +1,4 @@
 
 .DS_Store
+data/test-public.txt
+data/train.txt
